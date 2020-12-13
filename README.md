@@ -1,0 +1,1 @@
+# terraform-valut_secret-ansible
